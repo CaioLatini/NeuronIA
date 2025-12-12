@@ -115,3 +115,4 @@ C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\neuronia.api\bin\Debug\ne
 C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\neuronia.api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\neuronia.api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\neuronia.api\obj\Debug\net8.0\NeuronIA.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\neuronia.api\obj\Debug\net8.0\NeuronIA.Api.sourcelink.json

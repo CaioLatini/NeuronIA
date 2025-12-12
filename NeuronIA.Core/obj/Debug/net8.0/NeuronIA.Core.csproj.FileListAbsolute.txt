@@ -9,3 +9,4 @@ C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Core\obj\Debug\n
 C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Core\obj\Debug\net8.0\refint\NeuronIA.Core.dll
 C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Core\obj\Debug\net8.0\NeuronIA.Core.pdb
 C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Core\obj\Debug\net8.0\ref\NeuronIA.Core.dll
+C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Core\obj\Debug\net8.0\NeuronIA.Core.sourcelink.json

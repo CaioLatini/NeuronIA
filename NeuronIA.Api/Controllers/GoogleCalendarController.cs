@@ -23,7 +23,7 @@ public class GoogleCalendarController : ControllerBase
     // ----------------------------------------------------
     // 1. CRIAR EVENTO (POST)
     // ----------------------------------------------------
-    [HttpPost("event")]
+    [HttpPost("CreateEvent")]
     public async Task<IActionResult> CriarEvento([FromBody] CriarEventoCalendar request)
     {
         try
@@ -73,7 +73,7 @@ public class GoogleCalendarController : ControllerBase
     // ----------------------------------------------------
     // 2. LISTAR EVENTOS (GET)
     // ----------------------------------------------------
-    [HttpGet("events")]
+    [HttpGet("ListEvents")]
     public async Task<IActionResult> ListarEventos([FromQuery] ListarEventosCalendar request)
     {
         try
@@ -109,7 +109,7 @@ public class GoogleCalendarController : ControllerBase
     // 3. ATUALIZAR EVENTO (PUT)
     // ----------------------------------------------------
     // O ID do evento (EventId) e o DTO de edição virão na URL e no corpo.
-    [HttpPut("event/{eventId}")]
+    [HttpPut("UpdateEvent/{eventId}")]
     public async Task<IActionResult> AtualizarEvento(string eventId, [FromBody] EditarEventoCalendar request)
     {
         try
@@ -160,7 +160,7 @@ public class GoogleCalendarController : ControllerBase
     // 4. APAGAR EVENTO (DELETE)
     // O parâmetro necessário é o ID do evento (EventId)
     // ----------------------------------------------------
-    [HttpDelete("event/{usuarioId}/{eventId}")]
+    [HttpDelete("DeleteEvent/{usuarioId}/{eventId}")]
     public async Task<IActionResult> ApagarEvento(int usuarioId, string eventId)
     {
         try

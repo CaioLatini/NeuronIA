@@ -2,7 +2,8 @@
 using System.Text.Json;
 using System.Web;
 using NeuronIA.Core.DTOs; 
-using NeuronIA.Core.Interfaces; 
+using NeuronIA.Core.Interfaces;
+using System.Diagnostics;
 
 [ApiController]
 [Route("api/[controller]")]

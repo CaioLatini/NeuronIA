@@ -7,6 +7,6 @@ public class ModeloTokenGoogleCalendar
 {
     [Key]
     [ForeignKey("ModeloUsuario")]
-    public required int IdUsuario { get; set; }
+    public required int UsuarioId { get; set; }
     public required string RefreshTokenGoogleCalendar { get; set; }
 }

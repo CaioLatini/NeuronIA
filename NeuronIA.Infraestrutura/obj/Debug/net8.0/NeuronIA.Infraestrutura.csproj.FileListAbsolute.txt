@@ -15,3 +15,4 @@ C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Infraestrutura\o
 C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Infraestrutura\obj\Debug\net8.0\NeuronIA.Infraestrutura.pdb
 C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Infraestrutura\obj\Debug\net8.0\NeuronIA.Infraestrutura.genruntimeconfig.cache
 C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Infraestrutura\obj\Debug\net8.0\ref\NeuronIA.Infraestrutura.dll
+C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Infraestrutura\obj\Debug\net8.0\NeuronIA.Infraestrutura.sourcelink.json
