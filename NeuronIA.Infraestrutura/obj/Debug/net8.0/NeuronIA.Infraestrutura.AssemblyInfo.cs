@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NeuronIA.Infraestrutura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a45aab1a6769ee093b338fe3bdc25add2352ad0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddb0c53d94d5ace8442558678c8ab3284d0be417")]
 [assembly: System.Reflection.AssemblyProductAttribute("NeuronIA.Infraestrutura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NeuronIA.Infraestrutura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
