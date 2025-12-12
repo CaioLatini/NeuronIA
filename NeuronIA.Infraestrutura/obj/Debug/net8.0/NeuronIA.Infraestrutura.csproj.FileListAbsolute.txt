@@ -1,0 +1,17 @@
+C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Infraestrutura\obj\Debug\net8.0\NeuronIA.Infraestrutura.csproj.AssemblyReference.cache
+C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Infraestrutura\obj\Debug\net8.0\NeuronIA.Infraestrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Infraestrutura\obj\Debug\net8.0\NeuronIA.Infraestrutura.AssemblyInfoInputs.cache
+C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Infraestrutura\obj\Debug\net8.0\NeuronIA.Infraestrutura.AssemblyInfo.cs
+C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Infraestrutura\obj\Debug\net8.0\NeuronIA.Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Infraestrutura\bin\Debug\net8.0\NeuronIA.Infraestrutura.deps.json
+C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Infraestrutura\bin\Debug\net8.0\NeuronIA.Infraestrutura.runtimeconfig.json
+C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Infraestrutura\bin\Debug\net8.0\NeuronIA.Infraestrutura.dll
+C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Infraestrutura\bin\Debug\net8.0\NeuronIA.Infraestrutura.pdb
+C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Infraestrutura\bin\Debug\net8.0\NeuronIA.Core.dll
+C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Infraestrutura\bin\Debug\net8.0\NeuronIA.Core.pdb
+C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Infraestrutura\obj\Debug\net8.0\NeuronIA.EA7A9ED6.Up2Date
+C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Infraestrutura\obj\Debug\net8.0\NeuronIA.Infraestrutura.dll
+C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Infraestrutura\obj\Debug\net8.0\refint\NeuronIA.Infraestrutura.dll
+C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Infraestrutura\obj\Debug\net8.0\NeuronIA.Infraestrutura.pdb
+C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Infraestrutura\obj\Debug\net8.0\NeuronIA.Infraestrutura.genruntimeconfig.cache
+C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Infraestrutura\obj\Debug\net8.0\ref\NeuronIA.Infraestrutura.dll

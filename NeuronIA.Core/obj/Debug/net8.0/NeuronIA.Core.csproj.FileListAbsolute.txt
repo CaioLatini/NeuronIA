@@ -1,0 +1,11 @@
+C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Core\bin\Debug\net8.0\NeuronIA.Core.deps.json
+C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Core\bin\Debug\net8.0\NeuronIA.Core.dll
+C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Core\bin\Debug\net8.0\NeuronIA.Core.pdb
+C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Core\obj\Debug\net8.0\NeuronIA.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Core\obj\Debug\net8.0\NeuronIA.Core.AssemblyInfoInputs.cache
+C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Core\obj\Debug\net8.0\NeuronIA.Core.AssemblyInfo.cs
+C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Core\obj\Debug\net8.0\NeuronIA.Core.csproj.CoreCompileInputs.cache
+C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Core\obj\Debug\net8.0\NeuronIA.Core.dll
+C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Core\obj\Debug\net8.0\refint\NeuronIA.Core.dll
+C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Core\obj\Debug\net8.0\NeuronIA.Core.pdb
+C:\Users\caio.jardim\Desktop\PESSOAL\Projetos\NeuronIA\NeuronIA.Core\obj\Debug\net8.0\ref\NeuronIA.Core.dll
